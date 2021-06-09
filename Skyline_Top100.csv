@@ -1,0 +1,101 @@
+Date,Time,    Street_Address ,    City_State 
+7/1/2014,    20:27     ,    622 THIRD AV                ,     M                       
+7/1/2014,    21:04     ,     E 77TH ST                  ,     M                       
+7/1/2014,    22:20     ,    67 WEST PALISADES BLVD      ,    PALISADES PARK NJ        
+7/1/2014,    12:28     ,    130 MIDDLE NECK RD          ,    SANDS POINT LI           
+7/1/2014,    16:45     ,    36 E 31ST ST                ,     M                       
+7/1/2014,    18:15     ,    120 E 16TH ST               ,     M                       
+7/1/2014,    20:55     ,    300 FLATBUSH AV             ,     BK                      
+7/1/2014,    22:00     ,    410 PARK AV                 ,     M                       
+7/1/2014,    06:00     ,    5 E 22ND ST                 ,     M                       
+7/1/2014,    05:21     ,    2249 MORRIS AV              ,     BX                      
+7/1/2014,    06:15     ,    1536 CROSBY AV              ,     BX                      
+7/1/2014,    08:40     ,    3260 PERRY AV               ,     BX                      
+7/1/2014,    10:40     ,    140 W 140TH ST              ,     M                       
+7/1/2014,    13:03     ,    17 E 102ND ST               ,     M                       
+7/1/2014,    15:10     ,    2615 THIRD AV               ,     BX                      
+7/1/2014,    15:54     ,    1221 JEROME AV              ,     BX                      
+7/1/2014,    09:20     ,    18718 NASHVILLE BL          ,     QU                      
+7/1/2014,    10:00     ,    22620 FRANCIS LEWIS BL      ,     QU                      
+7/1/2014,    12:40     ,    5229 35TH ST                ,    NEW YORK QU              
+7/1/2014,    13:40     ,    622 THIRD AV                ,     M                       
+7/1/2014,    17:45     ,                                ,     LAG                     
+7/1/2014,    19:51     ,    360 B MOUNT PLEASANT AVE    ,    MAMARONECK WE            
+7/1/2014,    21:56     ,    622 THIRD AV                ,     M                       
+7/1/2014,    16:45     ,    315 RIVERSIDE DR            ,     M                       
+7/1/2014,    19:29     ,    38 E 63RD ST                ,     M                       
+7/1/2014,    21:15     ,    100 W 33RD ST               ,     M                       
+7/1/2014,    06:40     ,    1263 FINDLAY AV             ,     BX                      
+7/1/2014,    10:06     ,    2369 SECOND AV              ,     M                       
+7/1/2014,    11:25     ,    204 E 165TH ST              ,     BX                      
+7/1/2014,    13:20     ,    6 W 77TH ST                 ,     M                       
+7/1/2014,    14:27     ,    1056 FIFTH AV               ,     M                       
+7/1/2014,    17:15     ,    1062 MADISON AV             ,     M                       
+7/1/2014,    19:01     ,    120 WALL ST                 ,     M                       
+7/1/2014,    06:35     ,    2195 E 22ND ST              ,     BK                      
+7/1/2014,    07:50     ,    219 SULLIVAN PL             ,     BK                      
+7/1/2014,    08:40     ,    31 LEONARD ST               ,     BK                      
+7/1/2014,    09:58     ,    2270 KIMBALL ST             ,     BK                      
+7/1/2014,    11:55     ,    66 JOHN ST                  ,     M                       
+7/1/2014,    12:53     ,    3857 KINGS HY               ,     BK                      
+7/1/2014,    13:40     ,    838 40TH ST                 ,     BK                      
+7/1/2014,    14:45     ,    331 E 12TH ST               ,     M                       
+7/1/2014,    00:57     ,    757 3RD AVE                 ,     M                       
+7/1/2014,    12:25     ,    520 MADISON AV              ,     M                       
+7/1/2014,    17:10     ,    575 FIFTH AV                ,     M                       
+7/1/2014,    20:07     ,    126 E 56TH ST               ,     M                       
+7/1/2014,    22:10     ,    220 E 42ND ST               ,     M                       
+7/1/2014,    01:57     ,    520 MADISON AV              ,     M                       
+7/1/2014,    04:55     ,    200 W 72ND ST               ,    MANHATTAN M              
+7/1/2014,    06:00     ,    113 NASSAU ST               ,     M                       
+7/1/2014,    20:48     ,    128 PARKER AVENUE           ,    MAPLEWOOD NJ             
+7/1/2014,    21:53     ,     E 61ST ST                  ,     M                       
+7/1/2014,    22:27     ,    375 PARK AVE                ,     M                       
+7/1/2014,    09:30     ,    16 SUTTON SQ                ,     M                       
+7/1/2014,    16:44     ,     WASHINGTON BLVD            ,    STAMFORD CT              
+7/1/2014,    20:55     ,    825 THIRD AV                ,     M                       
+7/1/2014,    12:10     ,    1271 SIXTH AV               ,     M                       
+7/1/2014,    15:45     ,    50 W 50TH ST                ,     M                       
+7/1/2014,    16:42     ,    140 W 58TH ST               ,     M                       
+7/1/2014,    17:40     ,    75 VARICK ST                ,     M                       
+7/1/2014,    20:40     ,    1345 SIXTH AV               ,     M                       
+7/1/2014,    22:35     ,                                ,     NWK                     
+7/1/2014,    16:45     ,                                ,     JFK                     
+7/1/2014,    20:02     ,    1 LEXINGTON AV              ,     M                       
+7/1/2014,    21:34     ,    1440 BROADWAY ON 40TH ST    ,     M                       
+7/1/2014,    16:45     ,    49 W 27TH ST                ,     M                       
+7/1/2014,    19:08     ,    48 SULLIVAN WAY             ,    EAST BRUNSWICK NJ        
+7/1/2014,    21:48     ,    100 CHURCH ST               ,     M                       
+7/1/2014,    23:22     ,    411 PARK AV S               ,     M                       
+7/1/2014,    06:15     ,    285 WEST END AV             ,     M                       
+7/1/2014,    07:15     ,    4830 40TH ST                ,     QU                      
+7/1/2014,    07:20     ,    8431 FLEET CT               ,     QU                      
+7/1/2014,    10:10     ,    19 E 57TH ST                ,     M                       
+7/1/2014,    15:17     ,    375 PEARL ST                ,     M                       
+7/1/2014,    16:48     ,    1 HOGAN PL                  ,     M                       
+7/1/2014,    18:47     ,    120 WALL ST                 ,     M                       
+7/1/2014,    20:45     ,    100 CHURCH ST               ,     M                       
+7/1/2014,    22:31     ,    200 VARICK ST               ,     M                       
+7/1/2014,    00:06     ,    575 LEXINGTON AV            ,     M                       
+7/1/2014,    17:30     ,                                ,     LAG                     
+7/1/2014,    19:50     ,    375 PARK AV                 ,     M                       
+7/1/2014,    20:36     ,    375 PARK AV                 ,     M                       
+7/1/2014,    22:37     ,    575 LEXINGTON AV            ,     M                       
+7/1/2014,    05:45     ,    150 E 61ST ST               ,     M                       
+7/1/2014,    08:49     ,    2 KENNETH COURT             ,    SUMMIT NJ                
+7/1/2014,    13:40     ,    304 E 42ND ST               ,     M                       
+7/1/2014,    20:09     ,    520 MADISON ON 53RD ST      ,     M                       
+7/1/2014,    00:33     ,    75 VARICK ST                ,     M                       
+7/1/2014,    04:40     ,    42 WHITE ST                 ,     M                       
+7/1/2014,    07:18     ,                                ,     JFK                     
+7/1/2014,    20:17     ,    65 4th AV                   ,     M                       
+7/1/2014,    22:21     ,    66 CHARLTON ST              ,     M                       
+7/1/2014,    15:40     ,    525 LEXINGTON AV            ,     M                       
+7/1/2014,    19:45     ,    9 W 57TH ST                 ,     M                       
+7/1/2014,    12:03     ,    40 MARKET STREET            ,    MORRISTOWN NJ            
+7/1/2014,    05:10     ,    126 E 10TH ST               ,     M                       
+7/1/2014,    06:00     ,    1381 E NEW YORK AV          ,     BK                      
+7/1/2014,    07:05     ,    710 EVERGREEN AV            ,     BK                      
+7/1/2014,    21:57     ,    375 PARK AVE                ,     M                       
+7/1/2014,    00:30     ,    520 MADISON ON 53RD ST      ,     M                       
+7/1/2014,    03:55     ,    330 W 39TH ST               ,     M                       
