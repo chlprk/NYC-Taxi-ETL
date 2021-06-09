@@ -19,4 +19,5 @@ To install findpsark, type the following in the command line:
   pip install findspark
   
 **Author**
+
 Built by Chloe Park
