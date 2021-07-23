@@ -13,10 +13,11 @@ The resulting dataframe will be saved as a CSV.
 
 To install PySpark, type the following in the command line:
   
-'''pip install pyspark
+```pip install pyspark```
 
 To install findpsark, type the following in the command line:
-'''pip install findspark
+
+```pip install findspark```
   
 **Author**
 
